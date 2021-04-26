@@ -1,7 +1,7 @@
 /***************************************************************
 CSCI 240         Program 2     Fall 2018
 
-Programmer: Adam P Page z1859276
+Programmer: Adam P Page 
 
 Section: 1
 
